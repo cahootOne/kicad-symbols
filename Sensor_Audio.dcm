@@ -24,4 +24,10 @@ K Microphone MEMS
 F https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf
 $ENDCMP
 #
+$CMP SPU0410LR5H-QB
+D MEMS Microphone, LGA-6
+K Microphone MEMS
+F https://www.knowles.com/docs/default-source/model-downloads/spu0410lr5h-qb-revh32421a731dff6ddbb37cff0000940c19.pdf
+$ENDCMP
+#
 #End Doc Library
